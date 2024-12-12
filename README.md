@@ -14,9 +14,8 @@ MPhil in Economics graduate with expertise in monetary policy and economic growt
   University of Johannesburg | Jan 2020 – Oct 2020  
 
 - **Bachelor of Commerce in Economics** *(with Distinction)*  
-  North West University | Feb 2017 – Nov 2019 
+  North-West University | Feb 2017 – Nov 2019 
 
 ## My Skills 🚀
-- Programming: Python, R, Dart, JavaScript
-- Frameworks: Flutter, Firebase
-- Data Tools: SQL, Power BI
+- Programming: Python, R,
+- Data Tools: Ms Excel
